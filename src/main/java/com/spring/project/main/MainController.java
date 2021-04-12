@@ -16,6 +16,7 @@ public class MainController {
 	
 	@RequestMapping(value = "/main.do", method = RequestMethod.GET)
 	public String main(Locale locale, Model model) {
+		System.out.println("시작");
 		return "main";
 	}
 	

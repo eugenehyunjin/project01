@@ -4,6 +4,6 @@
 	
 <configuration>
 	<typeAliases>
-		
+		<typeAlias type="com.spring.project.vo.AddressVO" alias="AddressVO"/>
 	</typeAliases>
 </configuration>
