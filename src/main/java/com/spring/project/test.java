@@ -2,6 +2,7 @@ package com.spring.project;
 
 public class test {
 	public static void main(String[] args) {
-		System.out.println("ÀÌÇöÁø ÀÔ´Ï´Ù.");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô´Ï´ï¿½.");
+		System.out.println("í•˜ì§€ë¯¼ ìž…ë‹ˆë‹¤");
 	}
 }
